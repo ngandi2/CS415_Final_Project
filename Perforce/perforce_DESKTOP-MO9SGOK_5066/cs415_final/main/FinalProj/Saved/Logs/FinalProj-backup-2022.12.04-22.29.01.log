@@ -1,0 +1,1679 @@
+﻿Log file open, 12/04/22 15:29:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalProj
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.241998
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin USDImporter
+LogPluginManager: Mounting plugin USDMultiUser
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/MDLImporter.ini) has substring redirect /DatasmithContent/Materials/MDL/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.04-21.29.26:289][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.04-21.29.26:289][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:290][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:297][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.04-21.29.26:297][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.04-21.29.26:298][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.04-21.29.26:299][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.04-21.29.26:299][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.04-21.29.26:299][  0]LogHAL: Display: Platform has ~ 16 GB [17090859008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.04-21.29.26:299][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.04-21.29.26:299][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.04-21.29.26:299][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Scalability.ini]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.04-21.29.26:300][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.04-21.29.26:301][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.04-21.29.26:301][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.04-21.29.26:301][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.04-21.29.26:301][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Engine.ini]
+[2022.12.04-21.29.26:301][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Config/Windows/Editor.ini]
+[2022.12.04-21.29.26:301][  0]LogInit: Computer: DESKTOP-MO9SGOK
+[2022.12.04-21.29.26:301][  0]LogInit: User: littl
+[2022.12.04-21.29.26:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.04-21.29.26:301][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.04-21.29.26:301][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.04-21.29.26:301][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.04-21.29.26:301][  0]LogMemory: Process Physical Memory: 144.01 MB used, 144.02 MB peak
+[2022.12.04-21.29.26:301][  0]LogMemory: Process Virtual Memory: 126.36 MB used, 126.36 MB peak
+[2022.12.04-21.29.26:301][  0]LogMemory: Physical Memory: 7440.53 MB used,  8858.58 MB free, 16299.11 MB total
+[2022.12.04-21.29.26:301][  0]LogMemory: Virtual Memory: 134210672.00 MB used,  7059.09 MB free, 134217728.00 MB total
+[2022.12.04-21.29.26:306][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.04-21.29.26:353][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.04-21.29.26:354][  0]LogInit: Using OS detected language (en-US).
+[2022.12.04-21.29.26:354][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.04-21.29.26:359][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.04-21.29.26:562][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.04-21.29.26:576][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.04-21.29.26:591][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.04-21.29.26:591][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.04-21.29.26:730][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.04-21.29.26:733][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.04-21.29.26:733][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.04-21.29.26:733][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.04-21.29.26:734][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.04-21.29.26:843][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.12.04-21.29.26:843][  0]LogD3D11RHI:       6052/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     SubSysId    : 85ae1043
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     SharedSystemMemory : 8545429504 bytes
+[2022.12.04-21.29.26:846][  0]LogD3D11RHI:     AdapterLuid : 0 40538
+[2022.12.04-21.29.26:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.04-21.29.26:852][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.04-21.29.26:852][  0]LogWindows: EnumDisplayDevices:
+[2022.12.04-21.29.26:852][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.12.04-21.29.26:852][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.04-21.29.26:852][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.04-21.29.26:852][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.04-21.29.26:853][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.12.04-21.29.26:853][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     SubSysId    : 85ae1043
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     SharedSystemMemory : 8545429504 bytes
+[2022.12.04-21.29.26:853][  0]LogD3D11RHI:     AdapterLuid : 0 40538
+[2022.12.04-21.29.26:915][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.04-21.29.26:915][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.04-21.29.26:915][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.04-21.29.26:940][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.04-21.29.27:000][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.04-21.29.27:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.04-21.29.27:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.04-21.29.27:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.04-21.29.27:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.04-21.29.27:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.04-21.29.27:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.04-21.29.27:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.04-21.29.27:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.04-21.29.27:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.04-21.29.27:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.04-21.29.27:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.04-21.29.27:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.04-21.29.27:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.04-21.29.27:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.04-21.29.27:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.04-21.29.27:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.04-21.29.27:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.04-21.29.27:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.04-21.29.27:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.04-21.29.27:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.04-21.29.27:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.04-21.29.27:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.04-21.29.27:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.04-21.29.27:498][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.04-21.29.27:505][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.04-21.29.27:534][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.04-21.29.27:564][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.04-21.29.27:564][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Intermediate/Shaders/WorkingDirectory/8744/).
+[2022.12.04-21.29.27:564][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/littl/AppData/Local/Temp/UnrealShaderWorkingDir/3B3F598B4694B753D092839965A37435/'.
+[2022.12.04-21.29.27:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.04-21.29.27:565][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.04-21.29.27:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.04-21.29.28:367][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.04-21.29.28:433][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/littl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.04-21.29.28:433][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/littl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.04-21.29.28:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.04-21.29.28:433][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.04-21.29.28:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.04-21.29.28:434][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.04-21.29.28:452][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.04-21.29.28:453][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.04-21.29.28:453][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.04-21.29.28:460][  0]LogDerivedDataCache: Speed tests for C:/Users/littl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.04-21.29.28:460][  0]LogDerivedDataCache: Display: Performance to C:/Users/littl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=761.29MBs, RandomWriteSpeed=159.87MBs. Assigned SpeedClass 'Local'
+[2022.12.04-21.29.28:462][  0]LogDerivedDataCache: Using Local data cache path C:/Users/littl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.04-21.29.28:462][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.04-21.29.28:462][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.04-21.29.28:515][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.04-21.29.28:515][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.04-21.29.28:541][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.12.04-21.29.28:807][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.04-21.29.28:807][  0]LogInit: Active device profile: [000001CFE364B500][000001CFE352C140 49] Windows
+[2022.12.04-21.29.28:807][  0]LogInit: Profiles: [000001CFE364B500][000001CFE352C140 49] Windows, [000001CFE35ECD00][000001CFE1A222C0 49] WindowsNoEditor, [000001CFE3648D00][000001CFE1A1E440 49] WindowsServer, [000001CFE35EEE00][000001CFE19FA5C0 49] WindowsClient, [000001CFE364AD00][000001CFE2E0E740 49] IOS, [000001CFE35ED500][000001CFDC5B88C0 49] iPadAir, [000001CFE3649400][000001CFDC5B4A40 49] iPadAir2, [000001CFE35E7D00][000001CFDC5B0C80 49] IPadPro, [000001CFE35E7E00][000001CFE3528CC0 49] iPadAir3, [000001CFE364A800][000001CFDC7F8E00 49] iPadAir4, [000001CFE35E5200][000001CFDC7F4F40 49] iPadMini2, [000001CFE3649800][000001CFDC7E50C0 49] iPadMini3, [000001CFE35E6800][000001CFDC7E1240 49] iPadMini4, [000001CFE364B600][000001CFDC7DD3C0 49] iPadMini5, [000001CFE35F3600][000001CFDF697680 49] iPhone6, [000001CFE35F3700][000001CFDC7D96C0 49] iPodTouch6, [000001CFE35E4200][000001CFDC657980 49] iPhone7, [000001CFE35E4100][000001CFDF6939C0 49] iPodTouch7, [000001CFE35F1100][000001CFE1D0BB40 49] iPhone5S, [000001CFE35E4D00][000001CFDF8EA140 49] iPhone6Plus, [000001CFE35F2900][000001CFDF68E2C0 49] iPhone6S, [000001CFE35E4C00][000001CFE3106440 49] iPhone6SPlus, [000001CFE35F1800][000001CFD93965C0 49] iPhone7Plus, [000001CFE35E6400][000001CFD939A740 49] iPhoneSE, [000001CFE35F2200][000001CFD939E8C0 49] iPhone8, [000001CFE35E7600][000001CFDC61EA40 49] iPhone8Plus, [000001CFE35F1000][000001CFDC622BC0 49] iPhoneX, [000001CFE35E5700][000001CFDC626D40 49] iPhoneXS, [000001CFE35F2A00][000001CFDC7E8E80 49] iPhoneXSMax, [000001CFE35E6E00][000001CFDC62AFC0 49] iPhoneXR, [000001CFE35F3900][000001CFDC62F100 49] iPhone11, [000001CFE35E7000][000001CFDC637280 49] iPhone11Pro, [000001CFE35F0D00][000001CFDC63B400 49] iPhone11ProMax, [000001CFE35E7700][000001CFDC63F580 49] iPhoneSE2, [000001CFE35F1400][000001CFDC643700 49] iPhone12Mini, [000001CFE35E4F00][000001CFDF649880 49] iPhone12, [000001CFE35F2600][000001CFDF64DA00 49] iPhone12Pro, [000001CFE35E7F00][000001CFDF651B80 49] iPhone12ProMax, [000001CFE35F2400][000001CFDF654180 49] iPadPro105, [000001CFE35E6C00][000001CFDF658300 49] iPadPro129, [000001CFE35F1B00][000001CFDF65C480 49] iPadPro97, [000001CFE35E4A00][000001CFDF660600 49] iPadPro2_129, [000001CFE35F0100][000001CFDF664780 49] iPad5, [000001CFE35E6300][000001CFDF668900 49] iPad6, [000001CFE35F1A00][000001CFDF66CA80 49] iPad7, [000001CFE35E6F00][000001CFDF670C00 49] iPad8, [000001CFE35F2100][000001CFDF674D80 49] iPadPro11, [000001CFE35E6900][000001CFDF678F00 49] iPadPro2_11, [000001CFE35F0500][000001CFDC633040 49] iPadPro3_129, [000001CFE35E5000][000001CFDF67D180 49] iPadPro4_129, [000001CFE35F0F00][000001CFE2D212C0 49] AppleTV, [000001CFE35E4500][000001CFE2D29440 49] AppleTV4K, [000001CFE35F3000][000001CFE2D2D5C0 49] TVOS, [000001CFE35E6100][000001CFE2D31740 49] Mac, [000001CFE35F2F00][000001CFE2D358C0 49] MacClient, [000001CFE35E6700][000001CFE2D39A40 49] MacNoEditor, [000001CFE35F3200][000001CFE2D3DBC0 49] MacServer, [000001CFE35E4900][000001CFE2D401C0 49] Linux, [000001CFE35F0300][000001CFE2D44340 49] LinuxAArch64, [000001CFE3680100][000001CFE2D484C0 49] LinuxNoEditor, [000001CFE35EDE00][000001CFE2D4C640 49] LinuxAArch64NoEditor, [000001CFE3681E00][000001CFE2D507C0 49] LinuxClient, [000001CFE35EF000][000001CFE2D54940 49] LinuxAArch64Client, [000001CFE3682700][000001CFE2D58AC0 49] LinuxServer, [000001CFE35ED200][000001CFE1B3EC40 49] LinuxAArch64Server, [000001CFE3681400][000001CFE1B42DC0 49] Android, [000001CFE35EF300][000001CFE1B46F40 49] Android_Low, [000001CFE3680E00][000001CFE1B4B0C0 49] Android_Mid, [000001CFE35EDC00][000001CFE2D25200 49] Android_High, [000001CFE3680900][000001CFE1B4F340 49] Android_Default, [000001CFE35EF700][000001CFE1B53480 49] Android_Adreno4xx, [000001CFE3680D00][000001CFE1B575C0 49] Android_Adreno5xx_Low, [000001CFE35EF900][000001CFE1B5F740 49] Android_Adreno5xx, [000001CFE3682300][000001CFE1B638C0 49] Android_Adreno6xx, [000001CFE35EE000][000001CFE1B67A40 49] Android_Adreno6xx_Vulkan, [000001CFE3681900][000001CFE1B6BBC0 49] Android_Mali_T6xx, [000001CFE35EE600][000001CFE1B6E1C0 49] Android_Mali_T7xx, [000001CFE3682400][000001CFE1B72340 49] Android_Mali_T8xx, [000001CFE35EED00][000001CFE1B764C0 49] Android_Mali_G71, [000001CFE35F3400][000001CFE1B7A640 49] Android_Mali_G72, [000001CFE35E4600][000001CFE1B7E7C0 49] Android_Mali_G72_Vulkan, [000001CFE35F1500][000001CFE1B82940 49] Android_Mali_G76, [000001CFE35E5600][000001CFE1B86AC0 49] Android_Mali_G76_Vulkan, [000001CFE35F2D00][000001CFE1B8AC40 49] Android_Mali_G77, [000001CFE35E6B00][000001CFE1C12DC0 49] Android_Mali_G77_Vulkan, [000001CFE35F2B00][000001CFE1C16F40 49] Android_Mali_G78, [000001CFE35E4800][000001CFE1C1B0C0 49] Android_Mali_G78_Vulkan, [000001CFE35F2700][000001CFE2DE7240 49] Android_Mali_G710, [000001CFE35E4E00][000001CFE1B5B380 49] Android_Mali_G710_Vulkan, [000001CFE35F1C00][000001CFE2DEB4C0 49] Android_Vulkan_SM5, [000001CFE35E5300][000001CFE2DEF600 49] Android_PowerVR_G6xxx, [000001CFE3680500][000001CFE2DF3740 49] Android_PowerVR_GT7xxx, [000001CFE35E5800][000001CFE2DFB8C0 49] Android_PowerVR_GE8xxx, [000001CFE3680700][000001CFE2DFFA40 49] Android_PowerVR_GM9xxx, [000001CFE35E5C00][000001CFE2E03BC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001CFE3680B00][000001CFE2E061C0 49] Android_TegraK1, [000001CFE35E7900][000001CFE2E0A340 49] Android_Unknown_Vulkan, [000001CFE3682100][000001CFD93364C0 49] Lumin, [000001CFE35E6600][000001CFD933A640 49] Lumin_Desktop, [000001CFE3681B00][000001CFD933E7C0 49] HoloLens, 
+[2022.12.04-21.29.28:934][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.04-21.29.28:934][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.04-21.29.28:934][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.04-21.29.28:934][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.04-21.29.28:934][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.04-21.29.28:951][  0]LogNetVersion: FinalProj 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1367811133)
+[2022.12.04-21.29.29:366][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.04-21.29.29:437][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.04-21.29.29:443][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.04-21.29.29:443][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.04-21.29.29:443][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.04-21.29.29:724][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 449E5C6345869CA10697D39330E3B973 | Instance: 237D2242492D9CABB202139377FD583F (DESKTOP-MO9SGOK-8744).
+[2022.12.04-21.29.29:758][  0]LogPython: Using Python 3.7.7
+[2022.12.04-21.29.30:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.04-21.29.30:430][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.04-21.29.30:590][  0]SourceControl: Source control is disabled
+[2022.12.04-21.29.30:590][  0]SourceControl: Source control is disabled
+[2022.12.04-21.29.30:609][  0]LogUProjectInfo: Found projects:
+[2022.12.04-21.29.30:614][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.30:616][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.30:616][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.30:774][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2022.12.04-21.29.30:775][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2022.12.04-21.29.30:775][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2022.12.04-21.29.30:776][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2022.12.04-21.29.30:777][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2022.12.04-21.29.30:778][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2022.12.04-21.29.30:778][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2022.12.04-21.29.30:779][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2022.12.04-21.29.30:780][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2022.12.04-21.29.30:781][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2022.12.04-21.29.30:782][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2022.12.04-21.29.30:783][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2022.12.04-21.29.30:783][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2022.12.04-21.29.30:784][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2022.12.04-21.29.30:785][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'D:/UE_4.27/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2022.12.04-21.29.31:070][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.04-21.29.31:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.04-21.29.31:138][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.04-21.29.31:138][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.04-21.29.31:361][  0]LogOcInput: OculusInput pre-init called
+[2022.12.04-21.29.31:587][  0]LogCollectionManager: Loaded 0 collections in 0.002125 seconds
+[2022.12.04-21.29.31:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Collections/' took 0.00s
+[2022.12.04-21.29.31:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/Developers/littl/Collections/' took 0.00s
+[2022.12.04-21.29.31:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/Collections/' took 0.00s
+[2022.12.04-21.29.31:641][  0]LogClass: Display: EnumProperty FMultiUserClientConfig::ValidationMode is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.12.04-21.29.31:641][  0]LogClass: Display: StructProperty FMultiUserClientInfo::AvatarColor is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.12.04-21.29.31:641][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.12.04-21.29.31:642][  0]LogEngine: Initializing Engine...
+[2022.12.04-21.29.31:644][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.04-21.29.31:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.04-21.29.31:645][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.04-21.29.31:646][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.04-21.29.31:782][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.04-21.29.31:793][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.04-21.29.31:795][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.04-21.29.31:799][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-21.29.31:800][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-21.29.31:800][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-21.29.31:817][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-21.29.31:817][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-21.29.31:836][  0]LogAudioMixer: Display: Using Audio Device BenQ RL2455 (NVIDIA High Definition Audio)
+[2022.12.04-21.29.31:840][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-21.29.31:842][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-21.29.31:842][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-21.29.31:842][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-21.29.31:843][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-21.29.31:843][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-21.29.31:844][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-21.29.31:844][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-21.29.31:844][  0]LogInit: FAudioDevice initialized.
+[2022.12.04-21.29.31:844][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.04-21.29.31:844][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.04-21.29.31:927][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/littl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.04-21.29.31:928][  0]LogInit: Texture streaming: Enabled
+[2022.12.04-21.29.31:939][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.04-21.29.31:943][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.04-21.29.31:943][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.04-21.29.31:945][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.04-21.29.31:972][  0]LogInit: Transaction tracking system initialized
+[2022.12.04-21.29.31:989][  0]BlueprintLog: New page: Editor Load
+[2022.12.04-21.29.32:041][  0]LocalizationService: Localization service is disabled
+[2022.12.04-21.29.32:061][  0]TimingProfiler: Initialize
+[2022.12.04-21.29.32:061][  0]TimingProfiler: OnSessionChanged
+[2022.12.04-21.29.32:061][  0]LoadingProfiler: Initialize
+[2022.12.04-21.29.32:062][  0]LoadingProfiler: OnSessionChanged
+[2022.12.04-21.29.32:062][  0]NetworkingProfiler: Initialize
+[2022.12.04-21.29.32:062][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.04-21.29.32:062][  0]MemoryProfiler: Initialize
+[2022.12.04-21.29.32:062][  0]MemoryProfiler: OnSessionChanged
+[2022.12.04-21.29.32:112][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.32:113][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.32:114][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.04-21.29.32:131][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2022.12.04-21.29.32:201][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.04-21.29.32:201][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.04-21.29.32:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/' took 0.01s
+[2022.12.04-21.29.32:256][  0]LogUsd: Added ConcertSync filters for UUsdTransactor
+[2022.12.04-21.29.32:568][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.04-21.29.53:602][  0]SourceControl: Error: P4ERROR: Failed to connect to source control provider.
+[2022.12.04-21.29.53:602][  0]SourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.29.53:602][  0]SourceControl: Error: Port=ssl:20.231.99.116:1666, User=perforce, ClientSpec=perforce_DESKTOP-MO9SGOK_5066, Ticket=
+[2022.12.04-21.29.53:602][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.539
+[2022.12.04-21.29.53:603][  0]Cmd: MAP LOAD FILE="C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-21.29.53:604][  0]LightingResults: New page: Lighting Build
+[2022.12.04-21.29.53:609][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-21.29.53:609][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.29.53:610][  0]MapCheck: New page: Map Check
+[2022.12.04-21.29.53:610][  0]LightingResults: New page: Lighting Build
+[2022.12.04-21.29.53:627][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-21.29.53:637][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.04-21.29.53:699][  0]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.29.53:700][  0]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.29.53:700][  0]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.29.54:143][  0]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.29.54:143][  0]LoadErrors: Failed to load /Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A.MI_Platform_M_A Referenced by SM_Platform_M
+[2022.12.04-21.29.54:143][  0]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.29.54:143][  0]LoadErrors: Failed to load /Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A.MI_Platform_M_A Referenced by SM_Platform_M
+[2022.12.04-21.29.54:216][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\CityofBrass_Enemies\Meshes\Enemy\Hooker\Hooker_Boss_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.12.04-21.29.54:365][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.12.04-21.29.54:366][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.12.04-21.29.54:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-21.29.54:406][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.12.04-21.29.54:419][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.04-21.29.54:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-21.29.54:420][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2022.12.04-21.29.54:420][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.817
+[2022.12.04-21.29.54:422][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.359
+[2022.12.04-21.29.54:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.29.54:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.29.54:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.29.54:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.29.54:591][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3898 classes and 982 folders.
+[2022.12.04-21.29.54:593][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.04-21.29.54:595][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.04-21.29.54:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.04-21.29.54:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.04-21.29.54:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.12.04-21.29.54:595][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.04-21.29.54:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.04-21.29.54:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.04-21.29.54:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.12.04-21.29.54:596][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.04-21.29.54:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.04-21.29.54:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.04-21.29.54:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.12.04-21.29.54:597][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.04-21.29.54:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.04-21.29.54:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.04-21.29.54:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.12.04-21.29.54:598][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.04-21.29.54:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.04-21.29.54:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.04-21.29.54:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.04-21.29.54:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.04-21.29.54:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.04-21.29.54:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.04-21.29.54:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.04-21.29.54:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.04-21.29.54:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.04-21.29.54:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.04-21.29.54:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.12.04-21.29.54:601][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.04-21.29.54:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.04-21.29.54:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.04-21.29.54:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.04-21.29.54:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.04-21.29.54:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.04-21.29.54:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.04-21.29.54:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.04-21.29.54:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.04-21.29.54:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.04-21.29.54:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.04-21.29.54:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.04-21.29.54:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.04-21.29.54:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.04-21.29.54:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.04-21.29.54:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.04-21.29.54:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.04-21.29.54:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.04-21.29.54:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.04-21.29.54:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.04-21.29.54:606][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.04-21.29.54:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.04-21.29.54:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.04-21.29.54:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.04-21.29.54:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.04-21.29.54:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.04-21.29.54:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.04-21.29.54:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.04-21.29.54:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.04-21.29.54:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.04-21.29.54:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.04-21.29.54:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.04-21.29.54:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.04-21.29.54:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.04-21.29.54:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.04-21.29.54:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.12.04-21.29.54:610][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.04-21.29.54:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.04-21.29.54:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.04-21.29.54:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.04-21.29.54:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.04-21.29.54:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.12.04-21.29.54:651][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.04-21.29.54:652][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.04-21.29.54:766][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.04-21.29.54:767][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.04-21.29.54:768][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.04-21.29.54:863][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.12.04-21.29.54:886][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.12.04-21.29.54:949][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.04-21.29.55:038][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.04-21.29.55:038][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2022.12.04-21.29.55:038][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2022.12.04-21.29.55:038][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.12.04-21.29.55:038][  0]LogLoad: (Engine Initialization) Total time: 29.98 seconds
+[2022.12.04-21.29.55:038][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.04-21.29.55:129][  0]LogAssetRegistry: Asset discovery search completed in 26.5891 seconds
+[2022.12.04-21.29.55:135][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.04-21.29.55:137][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.04-21.29.55:197][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.04-21.30.01:704][521]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-21.30.01:708][521]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-21.30.15:566][ 93]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.15:566][ 93]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.16:196][168]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.16:196][168]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.17:117][278]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2022.12.04-21.30.18:459][431]LogSlate: Took 0.005112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.04-21.30.18:694][459]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.18:694][459]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.20:429][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.30.26:411][339]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.26:411][339]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.28:620][575]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.28:620][575]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.34:352][ 39]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.04-21.30.34:374][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door.BP_Door
+[2022.12.04-21.30.35:158][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.04-21.30.36:147][ 39]LogSlate: Took 0.004417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.04-21.30.51:838][624]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.51:838][624]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.54:681][921]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.30.54:681][921]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.30.59:877][399]LogSlate: Window 'BP_Door' being destroyed
+[2022.12.04-21.31.24:629][965]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.24:629][965]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.28:130][365]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.28:130][365]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.32:081][731]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.32:081][731]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.34:273][985]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.34:273][985]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.39:131][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BattleWizardPolyart/CharacterBP/WizardSM_BP.WizardSM_BP
+[2022.12.04-21.31.39:530][534]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.39:530][534]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.41:554][774]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.41:554][774]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.45:680][253]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.45:680][253]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.49:178][659]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.49:178][659]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.53:102][125]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.53:102][125]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.31.55:285][387]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.31.55:285][387]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.00:509][969]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.00:509][969]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.24:488][457]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.24:488][457]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.26:630][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2022.12.04-21.32.28:118][732]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.28:118][732]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.31:444][111]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.31:444][111]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.33:711][365]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.33:711][365]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.36:633][694]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.36:633][694]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.41:742][301]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.41:742][301]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.45:526][691]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.45:526][691]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.32.49:152][ 60]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.32.49:152][ 60]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.33.12:298][602]BlueprintLog: New page: Compile TopDownCharacter
+[2022.12.04-21.33.12:377][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.12.04-21.33.13:361][691]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-21.33.13:366][691]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.04-21.33.13:367][691]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2022.12.04-21.33.13:397][691]LogPlayLevel: [PlayLevel] Compiling BP_Key before play...
+[2022.12.04-21.33.13:427][691]LogPlayLevel: [PlayLevel] Compiling WBP_HUD before play...
+[2022.12.04-21.33.13:485][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.12.04-21.33.13:485][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (3 blueprints)
+[2022.12.04-21.33.13:486][691]PIE: New page: PIE session: TopDownExampleMap (Dec 4, 2022, 9:33:13 AM)
+[2022.12.04-21.33.13:487][691]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.04-21.33.13:489][691]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.04-21.33.13:489][691]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.12.04-21.33.13:523][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034114s)
+[2022.12.04-21.33.13:525][691]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.12.04-21.33.13:525][691]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2022.12.04-21.33.13:525][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.036245s)
+[2022.12.04-21.33.13:560][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.04-21.33.13:561][691]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-21.33.13:561][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-21.33.13:561][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-21.33.13:561][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-21.33.13:561][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-21.33.13:561][691]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-21.33.13:569][691]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-21.33.13:569][691]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-21.33.13:581][691]LogAudioMixer: Display: Using Audio Device BenQ RL2455 (NVIDIA High Definition Audio)
+[2022.12.04-21.33.13:582][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-21.33.13:582][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-21.33.13:582][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-21.33.13:582][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-21.33.13:582][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-21.33.13:582][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-21.33.13:584][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-21.33.13:584][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-21.33.13:584][691]LogInit: FAudioDevice initialized.
+[2022.12.04-21.33.13:584][691]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2022.12.04-21.33.13:633][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.33.13:633][691]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.12.04-21.33.13:643][691]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.12.04-15.33.13
+[2022.12.04-21.33.13:644][691]LogWorld: Bringing up level for play took: 0.009648
+[2022.12.04-21.33.13:645][691]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.12.04-21.33.13:648][691]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.12.04-21.33.13:649][691]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.04-21.33.13:649][691]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.04-21.33.13:649][691]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.04-21.33.13:652][691]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.04-21.33.13:653][691]PIE: Server logged in
+[2022.12.04-21.33.13:653][691]PIE: Play in editor total start time 0.288 seconds.
+[2022.12.04-21.33.13:789][692]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.12.04-21.33.28:105][805]LogCharacterMovement: BP_Pursuer_2 is stuck and failed to move! Velocity: X=-796.59 Y=-73.84 Z=0.00 Location: X=-9.20 Y=-582.05 Z=267.36 Normal: X=0.71 Y=-0.58 Z=-0.41 PenetrationDepth:0.000 Actor:TopDownCharacter Component:Box BoneName:None (0 other events since notify)
+[2022.12.04-21.33.28:143][808]LogCharacterMovement: BP_Pursuer2_5 is stuck and failed to move! Velocity: X=-131.20 Y=-289.69 Z=0.00 Location: X=-580.01 Y=4202.61 Z=265.53 Normal: X=-0.20 Y=0.20 Z=-0.96 PenetrationDepth:0.239 Actor:BP_PursuerSlow2_5 Component:Box BoneName:None (0 other events since notify)
+[2022.12.04-21.33.30:362][979]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.33.30:362][979]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.33.44:880][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.33.44:880][178]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.12.04-21.33.44:880][178]LogSlate: Window 'FinalProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.04-21.33.44:883][178]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-21.33.44:884][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.33.44:894][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-21.33.44:915][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.33.44:951][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-21.33.44:952][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-21.33.44:981][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.12.04-21.33.44:999][179]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.04-21.33.55:605][350]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door3)
+[2022.12.04-21.33.56:823][493]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2022.12.04-21.34.10:413][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.12.04-21.34.31:481][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.34.31:481][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.34.31:481][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.34.31:481][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.34.31:482][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.34.31:482][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.34.31:610][762]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_28E8B8AE142B800EA8ADF8EA5534F530E.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/TopDownBP/Blueprints/Environment/BP_Door_2.uasset'
+[2022.12.04-21.34.52:669][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.34.52:669][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.35.13:763][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.35.13:763][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.35.55:899][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.35.55:899][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.35.55:899][762]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.35.55:899][762]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.35.55:899][762]AssetCheck: New page: Asset Save: BP_Door_2
+[2022.12.04-21.35.55:900][762]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2
+[2022.12.04-21.36.16:951][240]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.36.16:951][240]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.36.18:098][329]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.36.18:098][329]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.36.20:320][561]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door3)
+[2022.12.04-21.36.25:785][162]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door3)
+[2022.12.04-21.36.26:205][211]Cmd: DELETE
+[2022.12.04-21.36.26:205][211]Cmd: ACTOR DELETE
+[2022.12.04-21.36.26:213][211]LogEditorActor: Deleted Actor: BP_Door_C
+[2022.12.04-21.36.26:244][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.04-21.36.26:248][211]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.12.04-21.36.30:651][687]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2022.12.04-21.36.33:156][985]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-21.36.42:328][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-21.36.56:026][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.37.00:772][259]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2022.12.04-21.37.03:033][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.37.07:408][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-21.37.07:413][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-21.37.07:413][ 41]PIE: New page: PIE session: TopDownExampleMap (Dec 4, 2022, 9:37:07 AM)
+[2022.12.04-21.37.07:413][ 41]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.12.04-21.37.07:442][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029275s)
+[2022.12.04-21.37.07:443][ 41]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.12.04-21.37.07:444][ 41]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2022.12.04-21.37.07:444][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030762s)
+[2022.12.04-21.37.07:483][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.12.04-21.37.07:487][ 41]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.04-21.37.07:487][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-21.37.07:487][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-21.37.07:487][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-21.37.07:487][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-21.37.07:488][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-21.37.07:488][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-21.37.07:488][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-21.37.07:488][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-21.37.07:488][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-21.37.07:488][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-21.37.07:488][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-21.37.07:488][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-21.37.07:495][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-21.37.07:495][ 41]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-21.37.07:506][ 41]LogAudioMixer: Display: Using Audio Device BenQ RL2455 (NVIDIA High Definition Audio)
+[2022.12.04-21.37.07:506][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-21.37.07:506][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-21.37.07:506][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-21.37.07:507][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-21.37.07:507][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-21.37.07:507][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-21.37.07:508][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-21.37.07:508][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-21.37.07:508][ 41]LogInit: FAudioDevice initialized.
+[2022.12.04-21.37.07:508][ 41]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2022.12.04-21.37.07:519][ 41]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.12.04-21.37.07:526][ 41]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.12.04-15.37.07
+[2022.12.04-21.37.07:527][ 41]LogWorld: Bringing up level for play took: 0.007712
+[2022.12.04-21.37.07:528][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.12.04-21.37.07:530][ 41]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.04-21.37.07:530][ 41]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.04-21.37.07:530][ 41]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.04-21.37.07:532][ 41]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.04-21.37.07:532][ 41]PIE: Server logged in
+[2022.12.04-21.37.07:533][ 41]PIE: Play in editor total start time 0.121 seconds.
+[2022.12.04-21.37.20:444][586]LogCharacterMovement: BP_PursuerSlow_2 is stuck and failed to move! Velocity: X=74.48 Y=-333.16 Z=0.00 Location: X=-772.58 Y=72.39 Z=267.53 Normal: X=0.22 Y=0.95 Z=-0.23 PenetrationDepth:0.000 Actor:TopDownCharacter Component:Box BoneName:None (0 other events since notify)
+[2022.12.04-21.37.21:869][757]LogCharacterMovement: BP_Pursuer2_5 is stuck and failed to move! Velocity: X=-319.09 Y=-733.61 Z=0.00 Location: X=-576.30 Y=4228.06 Z=265.49 Normal: X=-0.32 Y=0.24 Z=-0.92 PenetrationDepth:0.475 Actor:BP_PursuerSlow2_5 Component:Box BoneName:None (0 other events since notify)
+[2022.12.04-21.37.22:870][877]LogCharacterMovement: TopDownCharacter is stuck and failed to move! Velocity: X=0.00 Y=-51.20 Z=0.00 Location: X=-717.92 Y=-29.19 Z=273.62 Normal: X=0.67 Y=0.61 Z=-0.43 PenetrationDepth:5.965 Actor:BP_PursuerSlow_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.04-21.37.24:870][117]LogCharacterMovement: BP_Pursuer_2 is stuck and failed to move! Velocity: X=-40.73 Y=74.99 Z=0.00 Location: X=-669.40 Y=-245.07 Z=265.48 Normal: X=-0.39 Y=-0.92 Z=-0.11 PenetrationDepth:4.036 Actor:TopDownCharacter Component:WizardStaff BoneName:None (0 other events since notify)
+[2022.12.04-21.37.29:481][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.37.29:481][664]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.12.04-21.37.29:482][664]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-21.37.29:483][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.37.29:491][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-21.37.29:508][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.37.29:535][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-21.37.29:536][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-21.37.29:537][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-21.37.29:540][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-21.37.29:544][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.12.04-21.37.29:573][665]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.12.04-21.37.34:613][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2
+[2022.12.04-21.38.04:809][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.38.05:452][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.38.06:038][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.38.06:534][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.38.07:531][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-21.38.08:168][807]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2022.12.04-21.38.13:347][380]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.38.13:347][380]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.38.17:397][800]Cmd: TRANSACTION UNDO
+[2022.12.04-21.38.17:397][800]LogEditorTransaction: Undo Move Actors
+[2022.12.04-21.38.19:657][  5]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.04-21.39.09:180][413]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.39.09:180][413]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.39.32:278][884]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.39.32:278][884]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.39.34:390][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-21.39.35:830][302]LogEditorViewport: Clicking on Actor (LMB): BP_Key_2_C (BP_Key_2)
+[2022.12.04-21.39.36:071][328]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.39.36:071][328]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.39.37:418][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-21.40.07:574][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-21.40.27:702][180]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door4)
+[2022.12.04-21.40.29:444][374]Cmd: DELETE
+[2022.12.04-21.40.29:444][374]Cmd: ACTOR DELETE
+[2022.12.04-21.40.29:452][374]LogEditorActor: Deleted Actor: BP_Door_C
+[2022.12.04-21.40.29:496][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.04-21.40.29:499][374]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.12.04-21.40.32:243][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Platform.BP_Platform
+[2022.12.04-21.40.41:646][479]LogBlueprint: Error: [AssetLog] /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3 (no disk path found): [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3_C'
+[2022.12.04-21.40.41:685][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.12.04-21.40.41:688][479]LogBlueprint: Error: [AssetLog] /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3 (no disk path found): [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3_C'
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.02:759][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.02:760][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.02:844][479]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_32CF5CE3C4794A117B89B2280F562FF66.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/TopDownBP/Blueprints/Environment/BP_Door_3.uasset'
+[2022.12.04-21.41.23:888][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.23:888][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.41.44:964][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.41.44:965][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.42.27:107][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.42.27:107][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.42.27:107][479]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.42.27:107][479]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.42.27:107][479]AssetCheck: New page: Asset Save: BP_Door_3
+[2022.12.04-21.42.27:107][479]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-21.42.27:301][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.12.04-21.42.27:378][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/TopDownExampleMap_Auto1DC8F1DBF403446C1E6A2B982A23B91E1.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2022.12.04-21.42.27:380][480]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.123
+[2022.12.04-21.42.27:380][480]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2022.12.04-21.42.27:380][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([2] browsable assets)...
+[2022.12.04-21.42.27:423][480]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C]
+[2022.12.04-21.42.27:440][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2022.12.04-21.42.27:440][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2022.12.04-21.42.27:513][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/TopDownCharacter_Auto1845B07FA4C31B8603C4061B5B2C1BDEF.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2022.12.04-21.42.27:515][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/UI/WBP_HUD] ([2] browsable assets)...
+[2022.12.04-21.42.27:515][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/UI/WBP_HUD]
+[2022.12.04-21.42.27:531][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/WBP_HUD_Auto1FC45685145BD99E5DA95608102DCB3CD.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/UI/WBP_HUD_Auto1.uasset'
+[2022.12.04-21.42.27:532][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/Blueprints/Environment/BP_Door] ([2] browsable assets)...
+[2022.12.04-21.42.27:551][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door.BP_Door]
+[2022.12.04-21.42.27:551][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Environment/BP_Door]
+[2022.12.04-21.42.27:565][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_Auto1B0D7C24741C21ED5770E5AB35385BFFA.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Blueprints/Environment/BP_Door_Auto1.uasset'
+[2022.12.04-21.42.27:566][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/Blueprints/Items/Key/BP_Key] ([2] browsable assets)...
+[2022.12.04-21.42.27:587][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Items/Key/BP_Key.BP_Key]
+[2022.12.04-21.42.27:587][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Items/Key/BP_Key]
+[2022.12.04-21.42.27:598][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Key_Auto145ADCC3E4E98563CCD43BD89D7FACEBC.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Blueprints/Items/Key/BP_Key_Auto1.uasset'
+[2022.12.04-21.42.27:600][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/Blueprints/Environment/BP_Door_2] ([2] browsable assets)...
+[2022.12.04-21.42.27:619][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2]
+[2022.12.04-21.42.27:619][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Environment/BP_Door_2]
+[2022.12.04-21.42.27:633][480]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_2_Auto15992AD4B48E0C4DC39F921886F17C62F.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Blueprints/Environment/BP_Door_2_Auto1.uasset'
+[2022.12.04-21.42.27:634][480]LogFileHelpers: Auto-saving content packages took 0.254
+[2022.12.04-21.42.48:160][501]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.42.48:160][501]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.42.49:709][654]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.42.49:709][654]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.44.25:634][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.04-21.44.27:055][348]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-21.44.27:160][348]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-21.44.28:747][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.12.04-21.44.49:857][348]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.44.49:857][348]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.44.49:904][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.12.04-21.44.49:940][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.12.04-21.44.49:977][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.04-21.45.11:024][348]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.45.11:024][348]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.45.11:024][348]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-21.45.40:992][880]LogContentBrowser: Deferred new asset file creation: BP_Door1
+[2022.12.04-21.45.41:007][880]LogContentBrowser: Creating deferred item: BP_Door1
+[2022.12.04-21.45.45:931][316]LogContentBrowser: Attempting asset rename: BP_Door1 -> BP_Door_3
+[2022.12.04-21.45.45:977][316]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.45.45:978][316]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.45.45:978][316]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-21.45.45:989][316]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_3.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3_C'
+[2022.12.04-21.45.49:171][316]LogSlate: Window 'Message' being destroyed
+[2022.12.04-21.45.49:176][316]Message dialog closed, result: Yes, title: Message, text: An object [BP_Door_3] of class [Blueprint] already exists in file [/Game/TopDownBP/Blueprints/Environment/BP_Door_3].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2022.12.04-21.45.49:365][316]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.04-21.45.49:408][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.04-21.46.10:524][316]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.46.10:524][316]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.46.10:528][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.12.04-21.46.31:617][316]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.46.31:617][316]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.46.31:711][316]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_3FC840CFC47EC6CB2BEB74A878D93AF94.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Content/TopDownBP/Blueprints/Environment/BP_Door_3.uasset'
+[2022.12.04-21.47.13:866][316]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.47.13:866][316]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.47.13:866][316]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.47.13:866][316]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.47.13:866][316]LogContentBrowser: End creating deferred item BP_Door1
+[2022.12.04-21.47.13:896][316]AssetCheck: New page: Asset Save: BP_Door_3
+[2022.12.04-21.47.13:896][316]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-21.47.35:060][381]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.47.35:060][381]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.47.37:759][389]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.47.37:759][389]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.47.38:423][391]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.47.38:423][391]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.49.10:893][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.12.04-21.49.12:418][131]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-21.49.14:222][131]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-21.49.14:573][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.12.04-21.49.35:927][131]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.49.35:927][131]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.49.35:987][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.04-21.49.36:025][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.04-21.49.36:059][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.04-21.49.57:120][131]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-21.49.57:120][131]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-21.49.57:120][131]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-21.52.27:962][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.04-21.52.28:039][582]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/TopDownExampleMap_Auto21A873DFA40BE6250AE9D61853298296F.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2022.12.04-21.52.28:041][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.134
+[2022.12.04-21.52.28:041][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2022.12.04-22.00.51:423][297]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.00.51:424][297]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.00.51:424][297]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.00.58:834][118]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.00.59:272][169]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.01.14:528][346]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.01.14:528][346]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.01.18:816][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.01.19:823][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.04-22.01.25:887][679]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.01.33:691][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.12.04-22.01.35:349][367]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.01.37:110][367]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-22.01.37:453][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.04-22.01.58:801][367]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.01.58:801][367]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.01.58:863][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.04-22.01.58:899][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.04-22.01.58:938][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.04-22.02.20:000][367]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.02.20:000][367]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.02.20:000][367]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.02.30:205][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.04-22.02.30:296][398]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/TopDownExampleMap_Auto37299B90B49FDD33CEF1DC5B8429E68CB.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2022.12.04-22.02.30:298][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.141
+[2022.12.04-22.02.30:298][398]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2022.12.04-22.02.53:564][656]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.02.53:564][656]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.02.53:565][656]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.03.09:600][460]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.03.13:389][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.03.16:109][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.03.16:453][251]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.03.16:454][251]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.03.27:612][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.12.04-22.03.28:711][230]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.03.30:632][230]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-22.03.30:981][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.04-22.03.52:369][230]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.03.52:369][230]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.03.52:405][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.04-22.03.52:440][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.04-22.03.52:476][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.04-22.04.13:542][230]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.04.13:542][230]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.04.13:542][230]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.04.21:878][985]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2022.12.04-22.04.23:473][140]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.04.34:818][221]Cmd: DELETE
+[2022.12.04-22.04.34:818][221]Cmd: ACTOR DELETE
+[2022.12.04-22.04.34:829][221]LogEditorActor: Deleted Actor: BP_Door_C
+[2022.12.04-22.04.34:864][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.12.04-22.04.34:866][221]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.12.04-22.08.09:968][ 10]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.08.09:968][ 10]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.08.09:969][ 10]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.08.32:531][503]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.08.32:531][503]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.08.36:112][868]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.08.36:502][913]Cmd: DELETE
+[2022.12.04-22.08.36:502][913]Cmd: ACTOR DELETE
+[2022.12.04-22.08.36:509][913]LogEditorActor: Deleted Actor: BP_Door_3_C
+[2022.12.04-22.08.36:553][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.12.04-22.08.36:558][913]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.12.04-22.08.52:699][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2022.12.04-22.08.57:034][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.08.58:156][804]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.09.09:814][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_4)
+[2022.12.04-22.09.09:946][ 76]Cmd: DELETE
+[2022.12.04-22.09.09:946][ 76]Cmd: ACTOR DELETE
+[2022.12.04-22.09.09:952][ 76]LogEditorActor: Deleted Actor: BP_Door_3_C
+[2022.12.04-22.09.09:990][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.12.04-22.09.09:992][ 76]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.12.04-22.09.10:499][136]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.09.47:248][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.10.05:748][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2022.12.04-22.10.09:734][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Key_2_C (BP_Key_2)
+[2022.12.04-22.10.20:380][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.10.25:116][890]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2022.12.04-22.10.26:236][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.10.41:215][793]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.10.46:913][463]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.10.47:638][547]Cmd: DELETE
+[2022.12.04-22.10.47:638][547]Cmd: ACTOR DELETE
+[2022.12.04-22.10.47:644][547]LogEditorActor: Deleted Actor: BP_Door_2_C
+[2022.12.04-22.10.47:682][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.12.04-22.10.47:685][547]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.12.04-22.10.48:743][673]Cmd: TRANSACTION UNDO
+[2022.12.04-22.10.48:743][673]LogEditorTransaction: Undo Delete Actors
+[2022.12.04-22.10.49:752][747]Cmd: EDIT COPY
+[2022.12.04-22.10.50:595][845]Cmd: DELETE
+[2022.12.04-22.10.50:595][845]Cmd: ACTOR DELETE
+[2022.12.04-22.10.50:601][845]LogEditorActor: Deleted Actor: BP_Door_2_C
+[2022.12.04-22.10.50:636][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.04-22.10.50:638][845]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.12.04-22.10.53:953][238]Cmd: EDIT PASTE
+[2022.12.04-22.10.58:237][672]LogEditorViewport: Clicking on Actor (LMB): BP_Door_3_C (BP_Door_3)
+[2022.12.04-22.10.59:639][836]Cmd: DELETE
+[2022.12.04-22.10.59:639][836]Cmd: ACTOR DELETE
+[2022.12.04-22.10.59:646][836]LogEditorActor: Deleted Actor: BP_Door_3_C
+[2022.12.04-22.10.59:683][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.04-22.10.59:685][836]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.12.04-22.11.00:008][874]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.11.16:207][641]BlueprintLog: New page: Compile BP_Door_2
+[2022.12.04-22.11.16:209][641]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2_C'
+[2022.12.04-22.11.16:278][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.12.04-22.11.29:266][125]BlueprintLog: New page: Compile BP_Door_2
+[2022.12.04-22.11.29:268][125]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2_C'
+[2022.12.04-22.11.29:336][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.12.04-22.11.53:467][809]BlueprintLog: New page: Compile BP_Door
+[2022.12.04-22.11.53:528][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.12.04-22.12.29:352][948]BlueprintLog: New page: Compile BP_Door_2
+[2022.12.04-22.12.29:355][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.04-22.12.29:355][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.04-22.12.29:355][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.04-22.12.29:356][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] Variable node  Set IsInteractAnimPlay  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.04-22.12.29:356][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2_C'
+[2022.12.04-22.12.29:356][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] Variable node  Set IsInteractAnimPlay  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.04-22.12.29:356][948]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] Variable node  Set HasKey1  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.04-22.12.29:427][948]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.12.04-22.13.12:713][ 62]BlueprintLog: New page: Compile BP_Door_2
+[2022.12.04-22.13.12:715][ 62]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.04-22.13.12:715][ 62]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2022.12.04-22.13.12:715][ 62]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] Variable node  Set IsInteractAnimPlay  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.04-22.13.12:715][ 62]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2_C'
+[2022.12.04-22.13.12:715][ 62]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] Variable node  Set IsInteractAnimPlay  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.12.04-22.13.12:788][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.12.04-22.13.16:702][473]LogEditorTransaction: Undo Delete current selection
+[2022.12.04-22.13.50:467][235]LogEditorTransaction: Undo Move Node
+[2022.12.04-22.13.51:393][299]LogEditorTransaction: Undo Add Node
+[2022.12.04-22.13.52:151][382]LogEditorTransaction: Undo Delete current selection
+[2022.12.04-22.14.01:199][401]BlueprintLog: New page: Compile BP_Door_2
+[2022.12.04-22.14.01:201][401]LogBlueprint: Error: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\TopDownBP\Blueprints\Environment\BP_Door_2.uasset: [Compiler] The property associated with  Has Key 2  could not be found in '/Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2_C'
+[2022.12.04-22.14.01:294][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.12.04-22.14.19:586][556]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.14.20:348][645]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.14.21:951][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.04-22.14.22:673][917]LogEditorViewport: Clicking on Actor (LMB): BP_Door_2_C (BP_Door_2)
+[2022.12.04-22.14.25:048][198]Cmd: DELETE
+[2022.12.04-22.14.25:048][198]Cmd: ACTOR DELETE
+[2022.12.04-22.14.25:055][198]LogEditorActor: Deleted Actor: BP_Door_2_C
+[2022.12.04-22.14.25:094][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.12.04-22.14.25:098][198]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.12.04-22.14.26:541][333]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.12.04-22.14.27:536][333]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.14.29:483][333]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_3.BP_Door_3
+[2022.12.04-22.14.29:824][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.12.04-22.14.51:189][333]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.14.51:189][333]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.14.51:228][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.12.04-22.14.51:265][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.12.04-22.14.51:299][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.04-22.15.12:346][333]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.15.12:346][333]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.15.12:346][333]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.15.12:493][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.12.04-22.15.12:566][334]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/TopDownExampleMap_Auto4CF8FBEC048C8A38E0C007CBD829C86CF.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2022.12.04-22.15.12:567][334]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.113
+[2022.12.04-22.15.12:567][334]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2022.12.04-22.15.12:568][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/Blueprints/Environment/BP_Door_2] ([2] browsable assets)...
+[2022.12.04-22.15.12:585][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2]
+[2022.12.04-22.15.12:585][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Environment/BP_Door_2]
+[2022.12.04-22.15.12:599][334]LogSavePackage: Moving 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/BP_Door_2_Auto41CABD89A4DB69B15841FA09732516D59.tmp' to 'C:/Users/littl/Perforce/perforce_DESKTOP-MO9SGOK_5066/cs415_final/main/FinalProj/Saved/Autosaves/Game/TopDownBP/Blueprints/Environment/BP_Door_2_Auto4.uasset'
+[2022.12.04-22.15.12:600][334]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.12.04-22.19.14:578][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.12.04-22.19.16:404][331]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.19.18:261][331]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-22.19.18:261][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-22.19.18:330][331]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Environment/BP_Door_2.BP_Door_2
+[2022.12.04-22.19.18:652][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.12.04-22.19.40:006][331]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.19.40:006][331]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.19.40:082][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.12.04-22.19.40:123][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.04-22.19.40:158][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.04-22.20.01:185][331]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.20.01:185][331]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.20.01:185][331]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.26.48:374][160]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.26.48:375][160]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.26.48:375][160]LogLinker: Warning: [AssetLog] C:\Users\littl\Perforce\perforce_DESKTOP-MO9SGOK_5066\cs415_final\main\FinalProj\Content\SM_Platform_M.uasset: Failed to load '/Game/LearningKit_Games/Assets/Architecture/Platform/Material/MI_Platform_M_A': Can't find file.
+[2022.12.04-22.26.48:432][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.12.04-22.26.49:599][160]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.27.10:704][160]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.27.10:704][160]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.27.10:766][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.04-22.27.10:809][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.04-22.27.10:843][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.04-22.27.31:891][160]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.27.31:891][160]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.27.31:891][160]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.28.16:334][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.12.04-22.28.17:488][971]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.04-22.28.38:565][971]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.28.38:565][971]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.28.38:643][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.04-22.28.38:685][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.04-22.28.38:719][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.04-22.28.59:770][971]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.04-22.28.59:770][971]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+connect: 20.231.99.116:1666: WSAETIMEDOUT
+
+[2022.12.04-22.28.59:770][971]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.12.04-22.29.00:346][ 23]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall17)
+[2022.12.04-22.29.01:712][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
